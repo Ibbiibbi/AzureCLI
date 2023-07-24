@@ -1,5 +1,5 @@
 # Azure CLI
-Various scripts that are functional using Azure CLI
+This repo contains various scripts that are functional using Azure CLI
 # How to use Azure CLI
 
 To use the Azure CLI, you need to sign in with your Azure account. Here's how you can do it:
